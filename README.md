@@ -12,7 +12,7 @@ This Python script captures a screenshot of the Bitcoin halving countdown clock 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bitcoin-halving-countdown.git
+   git clone https://github.com/codan81/BTC_Halving_Countdown_screenshot
 
 ## Install dependencies
 2.  pip install -r requirements.txt
